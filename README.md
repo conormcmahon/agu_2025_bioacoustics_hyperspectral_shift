@@ -12,3 +12,10 @@ Things to add:
 * Tree vs. grass trait patterns
 * More spatial data
 * Confidence models for each species
+
+
+# Data Sources
+
+Plant traits data were developed during and following the 2022 Surface Biology and Geology HIgh Frequency Timeseries (SHIFT) project. All traits data are available online at: 
+
+[SHIFT Plant Traits](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2453)
