@@ -2,10 +2,6 @@
 
 ## SHIFTing from Flora to Fauna: Combining Bioacoustics and Imaging Spectroscopy to Track Seasonal and Spatial Patterns of Riparian Animal Vocal Activity
 
-Conor McMahon, Natalie Queally
-
-Here is a pdf copy of our poster:
-
 <embed src="2025_AGU_Birds.pdf" type="application/pdf" width="100%" height="800px" />
 
 Things to add:
