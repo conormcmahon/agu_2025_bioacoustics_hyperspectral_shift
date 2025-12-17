@@ -4,7 +4,9 @@
 
 Conor McMahon, Natalie Queally
 
-This is a placeholder website. Check back soon for more information on the project. 
+Here is a pdf copy of our poster:
+
+<embed src="2025_AGU_Birds.pdf" type="application/pdf" width="100%" height="800px" />
 
 Things to add:
 
