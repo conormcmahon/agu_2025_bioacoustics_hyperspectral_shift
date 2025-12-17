@@ -13,11 +13,9 @@ Plant traits data were developed during and following the 2022 Surface Biology a
 Zheng, T., N. Queally, C. Ade, P.G. Brodrick, K.D. Chadwick, and P.A. Townsend. 2025. SHIFT: AVIRIS-NG Derived Plant Functional Trait Mosaics. ORNL DAAC, Oak Ridge, Tennessee, USA. 
 [SHIFT Plant Traits](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2453)
 
-Chadwick, K. D. et al., 2025. Unlocking ecological insights from sub-seasonal visible-to-shortwave infrared imaging spectroscopy: The SHIFT campaign. ECOSPHERE. 16 (3). [SHIFT Manuscripts](https://doi.org/10.1002/ecs2.70194)
-
 More documentation is available from the manuscript:
 
-Zheng, T., N. Queally, C. Ade, P.G. Brodrick, K.D. Chadwick, and P.A. Townsend. 2025. SHIFT: AVIRIS-NG Derived Plant Functional Trait Mosaics. ORNL DAAC, Oak Ridge, Tennessee, USA. https://doi.org/10.3334/ORNLDAAC/2453
+Chadwick, K. D. et al., 2025. Unlocking ecological insights from sub-seasonal visible-to-shortwave infrared imaging spectroscopy: The SHIFT campaign. ECOSPHERE. 16 (3). [SHIFT Manuscripts](https://doi.org/10.1002/ecs2.70194)
 
 # Example Photos
 
