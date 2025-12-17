@@ -23,7 +23,7 @@ Additional versions are available for most plots shown on the primary poster. Th
 
 ###  Matrix Plots of Species Relationships to Habitat Across Spatial Scales
 
-[![Individual Bird Species Relationships to Surface Water](species_composite_matrix_plots/test_species_regression_raster_60.pdf)](species_composite_matrix_plots)
+<embed src="test_species_regression_raster_60.pdf" type="application/pdf" width="100%" height="800px" />
 
 ###  Bird Richness Relationships to Plant Traits and Other Drivers
 
